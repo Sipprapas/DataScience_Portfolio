@@ -1,5 +1,5 @@
 # :framed_picture: My Portfolio
-Welcome to my data portfolio.
+Welcome to my data science portfolio.
 
 # Python
 | Project Link | Completion Date | Tools | Project Description | 
