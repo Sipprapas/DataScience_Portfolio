@@ -18,6 +18,8 @@ Welcome to my data science portfolio.
 | Project Link | Completion Date | Project Description | 
 |---|---|---|
 |[Sales Dashboard](https://github.com/Sipprapas/Visualization-Project/tree/main/Sales%20Dashboard)| 20 April 2025 | Creating sales dashboard which show sales, net profit of each product's category and segment.| 
+|---|---|---|
+|---|---|---|
 
 ***
 # Excel
